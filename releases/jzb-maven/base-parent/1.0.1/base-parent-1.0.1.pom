@@ -7,7 +7,7 @@
 	<version>1.0.1</version>
 	<packaging>pom</packaging>
 
-	<name>JZB-Maven-Parent</name>
+	<name>${project.artifactId}-${project.version}</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
