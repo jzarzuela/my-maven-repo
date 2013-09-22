@@ -12,7 +12,7 @@
 
 	<properties>
 		<!--maven variable which points to your local repository -->
-		<internal.repo.path>file:///Users/jzarzuela/Documents/Java/my-maven-repo/</internal.repo.path>
+		<internal.repo.path>file:///Users/jzarzuela/Documents/Java/github-repos/my-maven-repos/</internal.repo.path>
 	</properties>
 
 	<build>
