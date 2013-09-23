@@ -3,11 +3,10 @@
   <groupId>SWT-4_3</groupId>
   <artifactId>com.ibm.icu</artifactId>
   <versioning>
-    <release>50.1.1.v201304230130.jar</release>
+    <release>50.1.1.v201304230130</release>
     <versions>
       <version>50.1.1.v201304230130</version>
-      <version>50.1.1.v201304230130.jar</version>
     </versions>
-    <lastUpdated>20130923224354</lastUpdated>
+    <lastUpdated>20130923225454</lastUpdated>
   </versioning>
 </metadata>

@@ -3,11 +3,10 @@
   <groupId>SWT-4_3</groupId>
   <artifactId>org.eclipse.jface</artifactId>
   <versioning>
-    <release>3.9.0.v20130521-1714.jar</release>
+    <release>3.9.0.v20130521-1714</release>
     <versions>
       <version>3.9.0.v20130521-1714</version>
-      <version>3.9.0.v20130521-1714.jar</version>
     </versions>
-    <lastUpdated>20130923224407</lastUpdated>
+    <lastUpdated>20130923225509</lastUpdated>
   </versioning>
 </metadata>

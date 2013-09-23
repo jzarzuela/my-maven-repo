@@ -3,11 +3,10 @@
   <groupId>SWT-4_3</groupId>
   <artifactId>org.eclipse.core.runtime</artifactId>
   <versioning>
-    <release>3.9.0.v20130326-1255.jar</release>
+    <release>3.9.0.v20130326-1255</release>
     <versions>
       <version>3.9.0.v20130326-1255</version>
-      <version>3.9.0.v20130326-1255.jar</version>
     </versions>
-    <lastUpdated>20130923224359</lastUpdated>
+    <lastUpdated>20130923225459</lastUpdated>
   </versioning>
 </metadata>
