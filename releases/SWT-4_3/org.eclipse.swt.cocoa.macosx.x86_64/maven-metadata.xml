@@ -5,9 +5,9 @@
   <versioning>
     <release>3.102.0.v20130605-1544</release>
     <versions>
+      <version>3.102.0.v20130605-1544-sources</version>
       <version>3.102.0.v20130605-1544</version>
-      <version>3.102.0.v20130605-1544-source</version>
     </versions>
-    <lastUpdated>20130923230417</lastUpdated>
+    <lastUpdated>20130924203249</lastUpdated>
   </versioning>
 </metadata>
