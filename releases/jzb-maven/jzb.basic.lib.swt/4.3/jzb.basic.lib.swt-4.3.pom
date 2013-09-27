@@ -29,17 +29,23 @@
 			<scope>test</scope>
 		</dependency>
 
-        <dependency>
-            <groupId>jzb-maven</groupId>
-            <artifactId>jzb.iphone.base_lib</artifactId>
-            <version>1.0.0</version>
-        </dependency>
+		<dependency>
+			<groupId>jzb-maven</groupId>
+			<artifactId>jzb.basic.lib</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 
-        <dependency>
-            <groupId>SWT-4_3</groupId>
-            <artifactId>com.ibm.icu</artifactId>
-            <version>50.1.1.v201304230130</version>
-        </dependency>
+		<dependency>
+			<groupId>jzb-maven</groupId>
+			<artifactId>jzb.iphone.base_lib</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>SWT-4_3</groupId>
+			<artifactId>com.ibm.icu</artifactId>
+			<version>50.1.1.v201304230130</version>
+		</dependency>
 
 		<dependency>
 			<groupId>SWT-4_3</groupId>
