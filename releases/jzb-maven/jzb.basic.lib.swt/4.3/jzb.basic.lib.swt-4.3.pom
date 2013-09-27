@@ -21,6 +21,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -32,12 +33,6 @@
 		<dependency>
 			<groupId>jzb-maven</groupId>
 			<artifactId>jzb.basic.lib</artifactId>
-			<version>1.0.0</version>
-		</dependency>
-
-		<dependency>
-			<groupId>jzb-maven</groupId>
-			<artifactId>jzb.iphone.base_lib</artifactId>
 			<version>1.0.0</version>
 		</dependency>
 
