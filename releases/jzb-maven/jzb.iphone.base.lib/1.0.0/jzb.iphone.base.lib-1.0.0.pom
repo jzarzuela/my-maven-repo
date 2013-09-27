@@ -9,7 +9,7 @@
 	</parent>
 
 	<groupId>jzb-maven</groupId>
-	<artifactId>jzb.iphone.base_lib</artifactId>
+	<artifactId>jzb.iphone.base.lib</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
