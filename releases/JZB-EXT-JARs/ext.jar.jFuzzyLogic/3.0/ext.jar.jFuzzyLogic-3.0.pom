@@ -3,6 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>JZB-EXT-JARs</groupId>
-  <artifactId>jFuzzyLogic</artifactId>
+  <artifactId>ext.jar.jFuzzyLogic</artifactId>
   <version>3.0</version>
 </project>
